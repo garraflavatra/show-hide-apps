@@ -1,0 +1,54 @@
+
+/* Class = "NSMenuItem"; title = "Show or Hide All Apps"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Toon of Verberg Alle Apps";
+
+/* Class = "NSMenuItem"; title = "Quit Show or Hide All Apps"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Stop Toon of Verberg Alle Apps";
+
+/* Class = "NSMenuItem"; title = "About Show or Hide All Apps"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Over Toon of Verberg Alle Apps";
+
+/* Class = "NSButtonCell"; title = "Show All"; ObjectID = "8Ux-nZ-sRj"; */
+"8Ux-nZ-sRj.title" = "Toon alles";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Hoofdmenu";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Show or Hide All Apps Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Toon of Verberg Alle Apps Help";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Alle vensters naar voorgrond";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Verklein";
+
+/* Class = "NSButtonCell"; title = "Hide All"; ObjectID = "PI1-sN-XUZ"; */
+"PI1-sN-XUZ.title" = "Verberg alles";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "THi-EF-UAI"; */
+"THi-EF-UAI.title" = "Stop";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Scherm";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Scherm";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSMenu"; title = "Show or Hide All Apps"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Toon of Verberg Alle Apps";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
