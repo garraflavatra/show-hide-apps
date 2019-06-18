@@ -46,6 +46,9 @@
 		92A6A19D22B7DCBB00EF6115 /* Show or Hide All AppsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Show or Hide All AppsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		92A6A1A122B7DCBB00EF6115 /* Show_or_Hide_All_AppsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Show_or_Hide_All_AppsUITests.swift; sourceTree = "<group>"; };
 		92A6A1A322B7DCBB00EF6115 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92A6A1AF22B7E08A00EF6115 /* nl-NL */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "nl-NL"; path = "nl-NL.lproj/Main.strings"; sourceTree = "<group>"; };
+		92A6A1B022B7E68300EF6115 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		92A6A1B122B7EC6800EF6115 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +79,8 @@
 		92A6A17722B7DCBA00EF6115 = {
 			isa = PBXGroup;
 			children = (
+				92A6A1B022B7E68300EF6115 /* README.md */,
+				92A6A1B122B7EC6800EF6115 /* LICENSE.md */,
 				92A6A18222B7DCBA00EF6115 /* Show or Hide All Apps */,
 				92A6A19522B7DCBB00EF6115 /* Show or Hide All AppsTests */,
 				92A6A1A022B7DCBB00EF6115 /* Show or Hide All AppsUITests */,
@@ -210,6 +215,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"nl-NL",
 			);
 			mainGroup = 92A6A17722B7DCBA00EF6115;
 			productRefGroup = 92A6A18122B7DCBA00EF6115 /* Products */;
@@ -295,6 +301,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				92A6A18A22B7DCBB00EF6115 /* Base */,
+				92A6A1AF22B7E08A00EF6115 /* nl-NL */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -306,6 +313,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -367,6 +375,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
