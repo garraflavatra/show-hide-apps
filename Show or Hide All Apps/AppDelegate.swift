@@ -21,6 +21,24 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         // Insert code here to tear down your application
     }
 
-
+    @IBAction func help(_ sender: Any) {
+        let url = URL(string:"https://github.com/Roman1001/show-hide-apps#show-or-hide-all-apps")!
+        NSWorkspace.shared.open([url],
+                                withAppBundleIdentifier:"com.apple.Safari",
+                                options: [],
+                                additionalEventParamDescriptor: nil,
+                                launchIdentifiers: nil)
+    }
+    
+    
+    @IBAction func ghRepo(_ sender: Any) {
+        let url = URL(string:"https://github.com/Roman1001/show-hide-apps")!
+        NSWorkspace.shared.open([url],
+                                withAppBundleIdentifier:"com.apple.Safari",
+                                options: [],
+                                additionalEventParamDescriptor: nil,
+                                launchIdentifiers: nil)
+    }
+    
 }
 

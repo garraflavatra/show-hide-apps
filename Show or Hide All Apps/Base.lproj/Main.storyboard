@@ -39,9 +39,14 @@
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <menu key="submenu" title="Help" systemMenu="help" id="F2S-fz-NVQ">
                                     <items>
-                                        <menuItem title="Show or Hide All Apps Help" keyEquivalent="?" id="FKE-Sm-Kum">
+                                        <menuItem title="Show or Hide All Apps Help" keyEquivalent="h" id="FKE-Sm-Kum">
                                             <connections>
-                                                <action selector="showHelp:" target="Ady-hI-5gd" id="y7X-2Q-9no"/>
+                                                <action selector="help:" target="Voe-Tx-rLC" id="8dd-6W-RaJ"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem title="GitHub Repository" keyEquivalent="r" id="BMM-PI-LCP">
+                                            <connections>
+                                                <action selector="ghRepo:" target="Voe-Tx-rLC" id="b53-Yo-mEg"/>
                                             </connections>
                                         </menuItem>
                                     </items>
