@@ -1,5 +1,6 @@
 ---
 title: Show or Hide All Apps
+layout: default
 ---
 
 # Show or Hide All Apps
