@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+show_downloads: true
+
+title: Show or Hide All Apps
+description: A small Mac application to show or hide all applications on your desktop. It helps you cleaning up your desktop, and it's handy for very busy people with many opened windows.
