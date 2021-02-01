@@ -1,3 +1,7 @@
+---
+title: Show or Hide All Apps
+---
+
 # Show or Hide All Apps
 
 ==> [DOWNLOAD](https://github.com/garraflavatra/show-hide-apps/releases/latest) version 0.1.1
