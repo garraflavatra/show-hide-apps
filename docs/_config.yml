@@ -1,4 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes@4.21.0"
+minimal_mistakes_skin: "sunrise"
 
 title: Show or Hide All Apps
 description: A small Mac application to show or hide all applications on your desktop. It helps you cleaning up your desktop, and it's handy for very busy people with many opened windows.
