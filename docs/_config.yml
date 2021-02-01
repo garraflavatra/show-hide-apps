@@ -1,3 +1,22 @@
-remote_theme: garraflavatra/jekyll-theme-garraflavatra-docs
+remote_theme: mmistakes/minimal-mistakes@4.21.0"
+
 title: Show or Hide All Apps
 description: A small Mac application to show or hide all applications on your desktop. It helps you cleaning up your desktop, and it's handy for very busy people with many opened windows.
+
+author:
+  name             : "Romein van Buren"
+  avatar           : "https://avatars.githubusercontent.com/u/34036573"
+  email            : "romein@vburen.eu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:romein@vburen.eu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://garraflavatra.github.io"
+      
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/garraflavatra/show-hide-apps"
