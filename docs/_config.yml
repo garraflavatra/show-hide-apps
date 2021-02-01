@@ -1,7 +1,3 @@
 theme: garraflavatra/jekyll-theme-garraflavatra-docs
-show_downloads: true
-
-download_url: https://github.com/garraflavatra/show-hide-apps/releases/latest
-
 title: Show or Hide All Apps
 description: A small Mac application to show or hide all applications on your desktop. It helps you cleaning up your desktop, and it's handy for very busy people with many opened windows.
