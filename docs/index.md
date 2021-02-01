@@ -1,6 +1,6 @@
 # Show or Hide All Apps
 
-A small Mac application to show all opened apps at the desktop or send them to the dock. It helps you cleaning up your desktop, and it's very handy for very buisy people with many opened windows.
+A small Mac application to show all opened apps at the desktop or send them to the dock. It helps you clean up your desktop, and it's very handy for  busy people with many opened windows.
 
 ## Installation
 
