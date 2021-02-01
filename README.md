@@ -1,5 +1,5 @@
 #  Show or Hide All Apps
-A small Mac application to show or hide all applications on your desktop. It helps you cleaning up your desktop, and it's very handy for very buisy people with many opened windows.
+A small Mac application to show or hide all applications on your desktop. It helps you cleaning up your desktop, and it's handy for very busy people with many opened windows.
 
 ## Installation
 Go to the [releases page](https://github.com/Roman1001/show-hide-apps/releases/latest), go to the downloads on the bottom of the page, and download your preferred version of the app:
