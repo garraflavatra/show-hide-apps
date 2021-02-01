@@ -1,9 +1,7 @@
 theme: jekyll-theme-leap-day
 show_downloads: true
 
-github:
-  zip_url: https://github.com/garraflavatra/show-hide-apps/releases/download/v0.1.1/latest-dmg.dmg
-  tar_url: https://github.com/garraflavatra/show-hide-apps/releases/download/v0.1.1/latest-dmg.dmg
+download_url: https://github.com/garraflavatra/show-hide-apps/releases/latest
 
 title: Show or Hide All Apps
 description: A small Mac application to show or hide all applications on your desktop. It helps you cleaning up your desktop, and it's handy for very busy people with many opened windows.
