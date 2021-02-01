@@ -1,6 +1,5 @@
 ---
 title: Show or Hide All Apps
-layout: single
 read_time: true
 author_profile: true
 ---
