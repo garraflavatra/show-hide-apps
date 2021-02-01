@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: garraflavatra/jekyll-theme-garraflavatra-docs
 show_downloads: true
 
 download_url: https://github.com/garraflavatra/show-hide-apps/releases/latest
