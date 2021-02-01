@@ -1,6 +1,8 @@
 ---
 title: Show or Hide All Apps
-layout: default
+layout: single
+read_time: true
+author_profile: true
 ---
 
 # Show or Hide All Apps
