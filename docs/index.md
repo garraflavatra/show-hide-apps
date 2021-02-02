@@ -7,7 +7,7 @@ toc: true
 
 <a class="btn btn--inverse" href="https://github.com/garraflavatra/show-hide-apps/releases/latest">DOWNLOAD</a> version 0.1.1
 
-A small Mac application to show all opened apps at the desktop or send them to the dock. It helps you clean up your desktop, and it's very handy for  busy people with many opened windows.
+A small Mac application to show all opened apps at the desktop or send them to the dock. It helps you clean up your desktop, and it's very handy for busy people with many opened windows.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Download the latest disk archive from [GitHub](https://github.com/garraflavatra/
 When you open the app, you see three buttons:
 
 - Show All: show all opened apps.
-- Hide All: hide all opened apps.
+- Hide All: hide all opened apps (but don't quit them).
 - Quit: quit the application (**only** this app!).
 
 ## Translations
