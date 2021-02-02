@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 minimal_mistakes_skin: "sunrise"
 
 title: Show or Hide All Apps
@@ -15,7 +15,10 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://garraflavatra.github.io"
-      
+
+plugins:
+  - jekyll-include-cache
+
 footer:
   links:
     - label: "GitHub"
