@@ -2,6 +2,8 @@
 title: Show or Hide All Apps
 read_time: true
 author_profile: true
+layout: single
+toc: true
 ---
 
 # Show or Hide All Apps
