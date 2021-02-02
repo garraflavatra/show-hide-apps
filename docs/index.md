@@ -6,7 +6,7 @@ layout: single
 toc: true
 ---
 
-<a class="btn" href="https://github.com/garraflavatra/show-hide-apps/releases/latest>DOWNLOAD</a> version 0.1.1
+<a class="btn" href="https://github.com/garraflavatra/show-hide-apps/releases/latest">DOWNLOAD</a> version 0.1.1
 
 A small Mac application to show all opened apps at the desktop or send them to the dock. It helps you clean up your desktop, and it's very handy for  busy people with many opened windows.
 
