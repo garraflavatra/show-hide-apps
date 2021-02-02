@@ -5,6 +5,8 @@ layout: single
 toc: true
 ---
 
+[Bekijk in het Nederlands](/show-hide-apps/nl.html)
+
 <a class="btn btn--inverse" href="https://github.com/garraflavatra/show-hide-apps/releases/latest">DOWNLOAD</a> version 0.1.1
 
 A small Mac application to show all opened apps at the desktop or send them to the dock. It helps you clean up your desktop, and it's very handy for busy people with many opened windows.
@@ -26,4 +28,4 @@ When you open the app, you see three buttons:
 The app supports the following languages:
 
 - English (dev lang)
-- Dutch
+- [Dutch](/show-hide-apps/nl.html)
