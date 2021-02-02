@@ -3,7 +3,7 @@ title: Toon of Verberg Alle Apps
 author_profile: true
 layout: single
 toc: true
-lang: nl-nl
+lang: nl
 ---
 
 <a class="btn btn--inverse" href="https://github.com/garraflavatra/show-hide-apps/releases/latest">DOWNLOAD</a> versie 0.1.1
@@ -12,7 +12,7 @@ Een kleine Mac-applicatie om alle geopende apps op het bureaublad te tonen of na
 
 ## Installation
 
-Download de laatste schijfkopie van [GitHub](https://github.com/garraflavatra/show-hide-apps/releases/latest) en open het. Verplaats het *Show or Hide All Apps.app*-bestand naar uw applicatiemap (`/Applications`).
+Download de laatste schijfkopie van [GitHub](https://github.com/garraflavatra/show-hide-apps/releases/latest) en open het. Verplaats het *Show or Hide All Apps.app*-bestand naar je applicatiemap (`/Applications`).
 
 ## Gebruiken
 
