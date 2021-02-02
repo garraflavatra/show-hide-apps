@@ -16,6 +16,8 @@ Download de laatste schijfkopie van [GitHub](https://github.com/garraflavatra/sh
 
 ## Gebruiken
 
+![Screenshot](https://garraflavatra.github.io/show-hide-apps/app-dutch.png)
+
 Als je de app opent, zie je drie knoppen:
 
 - Toon alles: toon alle geopende apps.
