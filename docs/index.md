@@ -17,7 +17,9 @@ Download the latest disk archive from [GitHub](https://github.com/garraflavatra/
 
 ## Usage
 
-When you open the app, you see three buttons:
+![Screenshot](https://garraflavatra.github.io/show-hide-apps/app-english.png)
+
+When you open the app, you'll see three buttons:
 
 - Show All: show all opened apps.
 - Hide All: hide all opened apps (but don't quit them).
