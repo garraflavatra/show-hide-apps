@@ -3,6 +3,7 @@ title: Toon of Verberg Alle Apps
 author_profile: true
 layout: single
 toc: true
+lang: nl-nl
 ---
 
 <a class="btn btn--inverse" href="https://github.com/garraflavatra/show-hide-apps/releases/latest">DOWNLOAD</a> versie 0.1.1
